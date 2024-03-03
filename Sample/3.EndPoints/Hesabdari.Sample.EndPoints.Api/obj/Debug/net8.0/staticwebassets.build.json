@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "5frvRy/XRkyqf2osmx/TjV61OfBPxSubqUwnzLBBV8w=",
+  "Source": "Hesabdari.Sample.EndPoints.Api",
+  "BasePath": "_content/Hesabdari.Sample.EndPoints.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Src\\4.EndPoints\\Hesabdari.EndPoints.Api\\Hesabdari.EndPoints.Api.csproj",
+      "Version": 2,
+      "Source": "Hesabdari.EndPoints.Api",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

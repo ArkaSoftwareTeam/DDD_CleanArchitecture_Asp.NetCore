@@ -1,0 +1,17 @@
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Contracts\bin\Debug\net8.0\Hesabdari.Core.Contracts.deps.json
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Contracts\bin\Debug\net8.0\Hesabdari.Core.Contracts.dll
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Contracts\bin\Debug\net8.0\Hesabdari.Core.Contracts.pdb
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Contracts\bin\Debug\net8.0\Hesabdari.Core.Domain.dll
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Contracts\bin\Debug\net8.0\Hesabdari.Utilities.dll
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Contracts\bin\Debug\net8.0\Hesabdari.Utilities.pdb
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Contracts\bin\Debug\net8.0\Hesabdari.Core.Domain.pdb
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Contracts\obj\Debug\net8.0\Hesabdari.Core.Contracts.csproj.AssemblyReference.cache
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Contracts\obj\Debug\net8.0\Hesabdari.Core.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Contracts\obj\Debug\net8.0\Hesabdari.Core.Contracts.AssemblyInfoInputs.cache
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Contracts\obj\Debug\net8.0\Hesabdari.Core.Contracts.AssemblyInfo.cs
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Contracts\obj\Debug\net8.0\Hesabdari.Core.Contracts.csproj.CoreCompileInputs.cache
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Contracts\obj\Debug\net8.0\Hesabdari.Core.Contracts.csproj.CopyComplete
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Contracts\obj\Debug\net8.0\Hesabdari.Core.Contracts.dll
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Contracts\obj\Debug\net8.0\refint\Hesabdari.Core.Contracts.dll
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Contracts\obj\Debug\net8.0\Hesabdari.Core.Contracts.pdb
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Contracts\obj\Debug\net8.0\ref\Hesabdari.Core.Contracts.dll

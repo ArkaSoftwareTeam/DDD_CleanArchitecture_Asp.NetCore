@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Af8Vs7FlBnzgGkeRO3G/eUEFt3X/G+xdWP40QzANmnA=",
+  "Source": "Hesabdari.EndPoints.Api",
+  "BasePath": "_content/Hesabdari.EndPoints.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

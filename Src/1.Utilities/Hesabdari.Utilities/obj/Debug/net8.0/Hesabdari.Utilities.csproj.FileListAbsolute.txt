@@ -1,0 +1,11 @@
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\1.Utilities\Hesabdari.Utilities\bin\Debug\net8.0\Hesabdari.Utilities.deps.json
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\1.Utilities\Hesabdari.Utilities\bin\Debug\net8.0\Hesabdari.Utilities.dll
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\1.Utilities\Hesabdari.Utilities\bin\Debug\net8.0\Hesabdari.Utilities.pdb
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\1.Utilities\Hesabdari.Utilities\obj\Debug\net8.0\Hesabdari.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\1.Utilities\Hesabdari.Utilities\obj\Debug\net8.0\Hesabdari.Utilities.AssemblyInfoInputs.cache
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\1.Utilities\Hesabdari.Utilities\obj\Debug\net8.0\Hesabdari.Utilities.AssemblyInfo.cs
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\1.Utilities\Hesabdari.Utilities\obj\Debug\net8.0\Hesabdari.Utilities.csproj.CoreCompileInputs.cache
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\1.Utilities\Hesabdari.Utilities\obj\Debug\net8.0\Hesabdari.Utilities.dll
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\1.Utilities\Hesabdari.Utilities\obj\Debug\net8.0\refint\Hesabdari.Utilities.dll
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\1.Utilities\Hesabdari.Utilities\obj\Debug\net8.0\Hesabdari.Utilities.pdb
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\1.Utilities\Hesabdari.Utilities\obj\Debug\net8.0\ref\Hesabdari.Utilities.dll

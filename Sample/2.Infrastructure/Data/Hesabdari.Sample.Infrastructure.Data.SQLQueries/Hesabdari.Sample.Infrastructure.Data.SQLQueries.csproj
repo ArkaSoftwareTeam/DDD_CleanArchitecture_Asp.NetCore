@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Src\3.Infrastructure\Data\Hesabdari.Infrastructure.Data.SQLQueries\Hesabdari.Infrastructure.Data.SQLQueries.csproj" />
+    <ProjectReference Include="..\..\..\1.Core\Hesabdari.Sample.Core.Contracts\Hesabdari.Sample.Core.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Hesabdari.Infrastructure.Data.SQL/1.0.0": {
+        "runtime": {
+          "Hesabdari.Infrastructure.Data.SQL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hesabdari.Infrastructure.Data.SQL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

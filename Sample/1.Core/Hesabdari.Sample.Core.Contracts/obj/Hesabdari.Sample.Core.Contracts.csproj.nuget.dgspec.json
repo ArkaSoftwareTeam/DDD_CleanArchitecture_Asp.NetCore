@@ -1,0 +1,358 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Sample\\1.Core\\Hesabdari.Sample.Core.Contracts\\Hesabdari.Sample.Core.Contracts.csproj": {}
+  },
+  "projects": {
+    "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Sample\\1.Core\\Hesabdari.Sample.Core.Contracts\\Hesabdari.Sample.Core.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Sample\\1.Core\\Hesabdari.Sample.Core.Contracts\\Hesabdari.Sample.Core.Contracts.csproj",
+        "projectName": "Hesabdari.Sample.Core.Contracts",
+        "projectPath": "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Sample\\1.Core\\Hesabdari.Sample.Core.Contracts\\Hesabdari.Sample.Core.Contracts.csproj",
+        "packagesPath": "C:\\Users\\ArkaSoftware\\.nuget\\packages\\",
+        "outputPath": "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Sample\\1.Core\\Hesabdari.Sample.Core.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ArkaSoftware\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Sample\\1.Core\\Hesabdari.Sample.Core.Domain\\Hesabdari.Sample.Core.Domain.csproj": {
+                "projectPath": "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Sample\\1.Core\\Hesabdari.Sample.Core.Domain\\Hesabdari.Sample.Core.Domain.csproj"
+              },
+              "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Src\\2.Core\\Hesabdari.Core.Contracts\\Hesabdari.Core.Contracts.csproj": {
+                "projectPath": "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Src\\2.Core\\Hesabdari.Core.Contracts\\Hesabdari.Core.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Sample\\1.Core\\Hesabdari.Sample.Core.Domain\\Hesabdari.Sample.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Sample\\1.Core\\Hesabdari.Sample.Core.Domain\\Hesabdari.Sample.Core.Domain.csproj",
+        "projectName": "Hesabdari.Sample.Core.Domain",
+        "projectPath": "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Sample\\1.Core\\Hesabdari.Sample.Core.Domain\\Hesabdari.Sample.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\ArkaSoftware\\.nuget\\packages\\",
+        "outputPath": "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Sample\\1.Core\\Hesabdari.Sample.Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ArkaSoftware\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Src\\1.Utilities\\Hesabdari.Utilities\\Hesabdari.Utilities.csproj": {
+                "projectPath": "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Src\\1.Utilities\\Hesabdari.Utilities\\Hesabdari.Utilities.csproj"
+              },
+              "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Src\\2.Core\\Hesabdari.Core.Domain\\Hesabdari.Core.Domain.csproj": {
+                "projectPath": "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Src\\2.Core\\Hesabdari.Core.Domain\\Hesabdari.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Src\\1.Utilities\\Hesabdari.Utilities\\Hesabdari.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Src\\1.Utilities\\Hesabdari.Utilities\\Hesabdari.Utilities.csproj",
+        "projectName": "Hesabdari.Utilities",
+        "projectPath": "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Src\\1.Utilities\\Hesabdari.Utilities\\Hesabdari.Utilities.csproj",
+        "packagesPath": "C:\\Users\\ArkaSoftware\\.nuget\\packages\\",
+        "outputPath": "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Src\\1.Utilities\\Hesabdari.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ArkaSoftware\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Src\\2.Core\\Hesabdari.Core.Contracts\\Hesabdari.Core.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Src\\2.Core\\Hesabdari.Core.Contracts\\Hesabdari.Core.Contracts.csproj",
+        "projectName": "Hesabdari.Core.Contracts",
+        "projectPath": "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Src\\2.Core\\Hesabdari.Core.Contracts\\Hesabdari.Core.Contracts.csproj",
+        "packagesPath": "C:\\Users\\ArkaSoftware\\.nuget\\packages\\",
+        "outputPath": "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Src\\2.Core\\Hesabdari.Core.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ArkaSoftware\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Src\\1.Utilities\\Hesabdari.Utilities\\Hesabdari.Utilities.csproj": {
+                "projectPath": "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Src\\1.Utilities\\Hesabdari.Utilities\\Hesabdari.Utilities.csproj"
+              },
+              "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Src\\2.Core\\Hesabdari.Core.Domain\\Hesabdari.Core.Domain.csproj": {
+                "projectPath": "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Src\\2.Core\\Hesabdari.Core.Domain\\Hesabdari.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Src\\2.Core\\Hesabdari.Core.Domain\\Hesabdari.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Src\\2.Core\\Hesabdari.Core.Domain\\Hesabdari.Core.Domain.csproj",
+        "projectName": "Hesabdari.Core.Domain",
+        "projectPath": "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Src\\2.Core\\Hesabdari.Core.Domain\\Hesabdari.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\ArkaSoftware\\.nuget\\packages\\",
+        "outputPath": "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Src\\2.Core\\Hesabdari.Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ArkaSoftware\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Src\\1.Utilities\\Hesabdari.Utilities\\Hesabdari.Utilities.csproj": {
+                "projectPath": "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Src\\1.Utilities\\Hesabdari.Utilities\\Hesabdari.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

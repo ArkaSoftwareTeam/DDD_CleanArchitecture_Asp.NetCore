@@ -1,0 +1,6 @@
+@Hesabdari.Sample.EndPoints.Api_HostAddress = http://localhost:5119
+
+GET {{Hesabdari.Sample.EndPoints.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

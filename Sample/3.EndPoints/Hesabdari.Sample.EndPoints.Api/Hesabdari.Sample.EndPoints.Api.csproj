@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <InvariantGlobalization>true</InvariantGlobalization>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Src\4.EndPoints\Hesabdari.EndPoints.Api\Hesabdari.EndPoints.Api.csproj" />
+    <ProjectReference Include="..\..\1.Core\Hesabdari.Sample.Core.ApplicationServices\Hesabdari.Sample.Core.ApplicationServices.csproj" />
+    <ProjectReference Include="..\..\1.Core\Hesabdari.Sample.Core.Contracts\Hesabdari.Sample.Core.Contracts.csproj" />
+    <ProjectReference Include="..\..\1.Core\Hesabdari.Sample.Core.Domain\Hesabdari.Sample.Core.Domain.csproj" />
+    <ProjectReference Include="..\..\2.Infrastructure\Data\Hesabdari.Sample.Infrastructure.Data.SQLCommands\Hesabdari.Sample.Infrastructure.Data.SQLCommands.csproj" />
+    <ProjectReference Include="..\..\2.Infrastructure\Data\Hesabdari.Sample.Infrastructure.Data.SQLQueries\Hesabdari.Sample.Infrastructure.Data.SQLQueries.csproj" />
+  </ItemGroup>
+
+</Project>

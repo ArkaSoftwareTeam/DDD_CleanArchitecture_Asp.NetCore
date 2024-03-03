@@ -1,0 +1,117 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Hesabdari.Sample.Infrastructure.Data.SQLQueries/1.0.0": {
+        "dependencies": {
+          "Hesabdari.Infrastructure.Data.SQLQueries": "1.0.0",
+          "Hesabdari.Sample.Core.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "Hesabdari.Sample.Infrastructure.Data.SQLQueries.dll": {}
+        }
+      },
+      "Hesabdari.Core.Contracts/1.0.0": {
+        "dependencies": {
+          "Hesabdari.Core.Domain": "1.0.0",
+          "Hesabdari.Utilities": "1.0.0"
+        },
+        "runtime": {
+          "Hesabdari.Core.Contracts.dll": {}
+        }
+      },
+      "Hesabdari.Core.Domain/1.0.0": {
+        "dependencies": {
+          "Hesabdari.Utilities": "1.0.0"
+        },
+        "runtime": {
+          "Hesabdari.Core.Domain.dll": {}
+        }
+      },
+      "Hesabdari.Infrastructure.Data.SQL/1.0.0": {
+        "runtime": {
+          "Hesabdari.Infrastructure.Data.SQL.dll": {}
+        }
+      },
+      "Hesabdari.Infrastructure.Data.SQLQueries/1.0.0": {
+        "dependencies": {
+          "Hesabdari.Core.Contracts": "1.0.0",
+          "Hesabdari.Infrastructure.Data.SQL": "1.0.0",
+          "Hesabdari.Utilities": "1.0.0"
+        },
+        "runtime": {
+          "Hesabdari.Infrastructure.Data.SQLQueries.dll": {}
+        }
+      },
+      "Hesabdari.Sample.Core.Contracts/1.0.0": {
+        "dependencies": {
+          "Hesabdari.Core.Contracts": "1.0.0",
+          "Hesabdari.Sample.Core.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Hesabdari.Sample.Core.Contracts.dll": {}
+        }
+      },
+      "Hesabdari.Sample.Core.Domain/1.0.0": {
+        "dependencies": {
+          "Hesabdari.Core.Domain": "1.0.0",
+          "Hesabdari.Utilities": "1.0.0"
+        },
+        "runtime": {
+          "Hesabdari.Sample.Core.Domain.dll": {}
+        }
+      },
+      "Hesabdari.Utilities/1.0.0": {
+        "runtime": {
+          "Hesabdari.Utilities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hesabdari.Sample.Infrastructure.Data.SQLQueries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hesabdari.Core.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hesabdari.Core.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hesabdari.Infrastructure.Data.SQL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hesabdari.Infrastructure.Data.SQLQueries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hesabdari.Sample.Core.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hesabdari.Sample.Core.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hesabdari.Utilities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

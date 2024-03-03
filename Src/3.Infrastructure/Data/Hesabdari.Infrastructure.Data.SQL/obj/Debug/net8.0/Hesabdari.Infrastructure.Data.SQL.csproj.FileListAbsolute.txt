@@ -1,0 +1,11 @@
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\3.Infrastructure\Data\Hesabdari.Infrastructure.Data.SQL\bin\Debug\net8.0\Hesabdari.Infrastructure.Data.SQL.deps.json
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\3.Infrastructure\Data\Hesabdari.Infrastructure.Data.SQL\bin\Debug\net8.0\Hesabdari.Infrastructure.Data.SQL.dll
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\3.Infrastructure\Data\Hesabdari.Infrastructure.Data.SQL\bin\Debug\net8.0\Hesabdari.Infrastructure.Data.SQL.pdb
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\3.Infrastructure\Data\Hesabdari.Infrastructure.Data.SQL\obj\Debug\net8.0\Hesabdari.Infrastructure.Data.SQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\3.Infrastructure\Data\Hesabdari.Infrastructure.Data.SQL\obj\Debug\net8.0\Hesabdari.Infrastructure.Data.SQL.AssemblyInfoInputs.cache
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\3.Infrastructure\Data\Hesabdari.Infrastructure.Data.SQL\obj\Debug\net8.0\Hesabdari.Infrastructure.Data.SQL.AssemblyInfo.cs
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\3.Infrastructure\Data\Hesabdari.Infrastructure.Data.SQL\obj\Debug\net8.0\Hesabdari.Infrastructure.Data.SQL.csproj.CoreCompileInputs.cache
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\3.Infrastructure\Data\Hesabdari.Infrastructure.Data.SQL\obj\Debug\net8.0\Hesabdari.Infrastructure.Data.SQL.dll
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\3.Infrastructure\Data\Hesabdari.Infrastructure.Data.SQL\obj\Debug\net8.0\refint\Hesabdari.Infrastructure.Data.SQL.dll
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\3.Infrastructure\Data\Hesabdari.Infrastructure.Data.SQL\obj\Debug\net8.0\Hesabdari.Infrastructure.Data.SQL.pdb
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\3.Infrastructure\Data\Hesabdari.Infrastructure.Data.SQL\obj\Debug\net8.0\ref\Hesabdari.Infrastructure.Data.SQL.dll

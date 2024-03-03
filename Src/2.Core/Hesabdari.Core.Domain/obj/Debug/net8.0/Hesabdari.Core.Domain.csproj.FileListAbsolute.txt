@@ -1,0 +1,15 @@
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Domain\bin\Debug\net8.0\Hesabdari.Core.Domain.deps.json
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Domain\bin\Debug\net8.0\Hesabdari.Core.Domain.dll
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Domain\bin\Debug\net8.0\Hesabdari.Core.Domain.pdb
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Domain\bin\Debug\net8.0\Hesabdari.Utilities.dll
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Domain\bin\Debug\net8.0\Hesabdari.Utilities.pdb
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Domain\obj\Debug\net8.0\Hesabdari.Core.Domain.csproj.AssemblyReference.cache
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Domain\obj\Debug\net8.0\Hesabdari.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Domain\obj\Debug\net8.0\Hesabdari.Core.Domain.AssemblyInfoInputs.cache
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Domain\obj\Debug\net8.0\Hesabdari.Core.Domain.AssemblyInfo.cs
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Domain\obj\Debug\net8.0\Hesabdari.Core.Domain.csproj.CoreCompileInputs.cache
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Domain\obj\Debug\net8.0\Hesabdari.Core.Domain.csproj.CopyComplete
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Domain\obj\Debug\net8.0\Hesabdari.Core.Domain.dll
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Domain\obj\Debug\net8.0\refint\Hesabdari.Core.Domain.dll
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Domain\obj\Debug\net8.0\Hesabdari.Core.Domain.pdb
+D:\ArkaSoftware WebSite\AspNetCoreServer\ArkaSoftware_DDD\Hesabdari\Src\2.Core\Hesabdari.Core.Domain\obj\Debug\net8.0\ref\Hesabdari.Core.Domain.dll

@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\1.Utilities\Hesabdari.Utilities\Hesabdari.Utilities.csproj" />
+    <ProjectReference Include="..\..\..\2.Core\Hesabdari.Core.Contracts\Hesabdari.Core.Contracts.csproj" />
+    <ProjectReference Include="..\..\..\2.Core\Hesabdari.Core.Domain\Hesabdari.Core.Domain.csproj" />
+    <ProjectReference Include="..\..\..\2.Core\Hesabdari.Core.Toolkits\Hesabdari.Core.Toolkits.csproj" />
+    <ProjectReference Include="..\Hesabdari.Infrastructure.Data.SQL\Hesabdari.Infrastructure.Data.SQL.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.2" />
+  </ItemGroup>
+
+</Project>

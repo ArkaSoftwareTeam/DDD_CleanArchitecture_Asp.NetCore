@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Hesabdari.Sample.EndPoints.Api.props" />
+</Project>

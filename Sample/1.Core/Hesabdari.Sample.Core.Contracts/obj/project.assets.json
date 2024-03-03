@@ -1,0 +1,162 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Hesabdari.Core.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Hesabdari.Core.Domain": "1.0.0",
+          "Hesabdari.Utilities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Hesabdari.Core.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Hesabdari.Core.Contracts.dll": {}
+        }
+      },
+      "Hesabdari.Core.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Hesabdari.Utilities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Hesabdari.Core.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Hesabdari.Core.Domain.dll": {}
+        }
+      },
+      "Hesabdari.Sample.Core.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Hesabdari.Core.Domain": "1.0.0",
+          "Hesabdari.Utilities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Hesabdari.Sample.Core.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Hesabdari.Sample.Core.Domain.dll": {}
+        }
+      },
+      "Hesabdari.Utilities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Hesabdari.Utilities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Hesabdari.Utilities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hesabdari.Core.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../../../Src/2.Core/Hesabdari.Core.Contracts/Hesabdari.Core.Contracts.csproj",
+      "msbuildProject": "../../../Src/2.Core/Hesabdari.Core.Contracts/Hesabdari.Core.Contracts.csproj"
+    },
+    "Hesabdari.Core.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../../Src/2.Core/Hesabdari.Core.Domain/Hesabdari.Core.Domain.csproj",
+      "msbuildProject": "../../../Src/2.Core/Hesabdari.Core.Domain/Hesabdari.Core.Domain.csproj"
+    },
+    "Hesabdari.Sample.Core.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Hesabdari.Sample.Core.Domain/Hesabdari.Sample.Core.Domain.csproj",
+      "msbuildProject": "../Hesabdari.Sample.Core.Domain/Hesabdari.Sample.Core.Domain.csproj"
+    },
+    "Hesabdari.Utilities/1.0.0": {
+      "type": "project",
+      "path": "../../../Src/1.Utilities/Hesabdari.Utilities/Hesabdari.Utilities.csproj",
+      "msbuildProject": "../../../Src/1.Utilities/Hesabdari.Utilities/Hesabdari.Utilities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Hesabdari.Core.Contracts >= 1.0.0",
+      "Hesabdari.Sample.Core.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ArkaSoftware\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Sample\\1.Core\\Hesabdari.Sample.Core.Contracts\\Hesabdari.Sample.Core.Contracts.csproj",
+      "projectName": "Hesabdari.Sample.Core.Contracts",
+      "projectPath": "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Sample\\1.Core\\Hesabdari.Sample.Core.Contracts\\Hesabdari.Sample.Core.Contracts.csproj",
+      "packagesPath": "C:\\Users\\ArkaSoftware\\.nuget\\packages\\",
+      "outputPath": "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Sample\\1.Core\\Hesabdari.Sample.Core.Contracts\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ArkaSoftware\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Sample\\1.Core\\Hesabdari.Sample.Core.Domain\\Hesabdari.Sample.Core.Domain.csproj": {
+              "projectPath": "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Sample\\1.Core\\Hesabdari.Sample.Core.Domain\\Hesabdari.Sample.Core.Domain.csproj"
+            },
+            "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Src\\2.Core\\Hesabdari.Core.Contracts\\Hesabdari.Core.Contracts.csproj": {
+              "projectPath": "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Src\\2.Core\\Hesabdari.Core.Contracts\\Hesabdari.Core.Contracts.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

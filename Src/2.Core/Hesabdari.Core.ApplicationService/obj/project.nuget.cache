@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TmOjpqxdGc0lLhCKEH6ovh7SMMYkmMzOZoYYUEFWDXOjfiWNr+KVkY2Ftre2WWA8dJUhqp7ADU+jxz25jA2MPw==",
+  "success": true,
+  "projectFilePath": "D:\\ArkaSoftware WebSite\\AspNetCoreServer\\ArkaSoftware_DDD\\Hesabdari\\Src\\2.Core\\Hesabdari.Core.ApplicationService\\Hesabdari.Core.ApplicationService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ArkaSoftware\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\ArkaSoftware\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ArkaSoftware\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
